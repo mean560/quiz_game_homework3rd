@@ -33,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
         WordItem[] items = {
                 new WordItem(R.drawable.flower_sakura, "Cherry Blossom", "ดอกซากุระ"),
                 new WordItem(R.drawable.flower_canna, "Canna Indica", "ดอกพุทธรักษา"),
-                new WordItem(R.drawable.flower_paradise, "Bird of paradise", "ดอกปักษาสวรรค์"),
+                new WordItem(R.drawable.flower_paradise, "Bird of Paradise", "ดอกปักษาสวรรค์"),
                 new WordItem(R.drawable.flower_hydrangea, "Hydrangea", "ดอกไฮเดรนเยีย"),
-                new WordItem(R.drawable.flower_lily, "Calla Lily", "คาลล่า ลิลลี่"),
+                new WordItem(R.drawable.flower_lily, "Calla Lily", "ดอกคาลล่า ลิลลี่"),
                 new WordItem(R.drawable.flower_susan, "Black Eyed Susan", "ดอกซูซานตาดำ"),
                 new WordItem(R.drawable.flower_bleedingheart, "Bleeding Heart", "ดอกหทัยหยาดทิพย์"),
                 new WordItem(R.drawable.flower_bluebells, "Blue Bells", "ดอกระฆัง"),
